@@ -25,7 +25,9 @@ This project demonstrates the use of **tree-based models** — including **Decis
 
 ##  File Structure
 ├── heart_disease.csv # Dataset used for training and evaluation
+
 ├── Heart_Disease_Tree_Models.ipynb # Jupyter notebook with full implementation
+
 └── README.md # Project documentation
 
 ---
